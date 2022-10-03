@@ -16,7 +16,7 @@ function displayReceipt(totalDue, amountPaid){
         console.log("OWED: $" + owed);
     }else{
         let credit = Math.abs(totalDue - amountPaid); //NEVER NEGATIVE
-        console.log("CREDIT BALANCE:" + credit);    
+        console.log("CREDIT BALANCE: $" + credit);    
     }
 }
 
