@@ -1,3 +1,28 @@
+// 1-12 Exercise #1
+function displayMailingLabel(name, address, city, state, zip){
+    console.log(name);
+    console.log(address);
+    console.log(city);
+    console.log(state);
+    console.log(zip);
+}
+
+let name1 = "Chad";
+let address1 = "1154 woah rd";
+let city1 = "Clark"
+let state1 = "Georgia"
+let zip1 = "20919"
+
+
+
+
+
+
+
+
+
+
+
 
 // absolute number is the positive version even if it's negative
 
